@@ -1,1 +1,10 @@
-// TODO
+.postInfo {
+  display: flex;
+  row-gap: 1rem;
+  color: var(--gray-300);
+  column-gap: 2rem;
+
+  svg {
+    margin-right: 0.5rem;
+  }
+}
