@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./public/imagens/logo.svg" alt="SpaceTraveling">
+  <img alt="Logo" src="./public/images/logo.svg" alt="SpaceTraveling">
 </h1>
 
 <h1 align="center">
